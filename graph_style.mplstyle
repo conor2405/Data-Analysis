@@ -1,0 +1,52 @@
+# graph_style.mplstyle
+
+# Figure size
+figure.figsize: 10, 6
+figure.facecolor: 312f3d
+figure.edgecolor: 312f3d
+
+# DPI
+figure.dpi: 600
+
+# Axes
+axes.titlesize: 20
+axes.labelsize: 14
+axes.titlecolor: d1d1d1
+axes.grid: True
+axes.spines.top: False
+axes.spines.right: False
+axes.facecolor: 312f3d
+axes.edgecolor: d1d1d1
+
+# Ticks
+xtick.labelsize: 12
+ytick.labelsize: 12
+xtick.color: d1d1d1
+
+ytick.color: d1d1d1
+
+
+# Lines
+lines.linewidth: 1.5
+lines.markersize: 6
+
+# Grid
+grid.color: lightgrey
+grid.linestyle: --
+grid.alpha: 0.15
+
+# Legend
+legend.fontsize: 12
+
+# Font
+font.family: sans-serif
+font.sans-serif: Arial
+
+#Text
+text.color: d1d1d1
+
+# Savefig
+savefig.dpi: 600
+savefig.bbox: tight
+savefig.facecolor: 312f3d
+savefig.edgecolor: 312f3d
